@@ -22,9 +22,9 @@ def print_banner():
     banner = f'''
     {Fore.CYAN}╔════════════════════════════════════════════╗{Style.RESET_ALL}
     {Fore.CYAN}║{Style.RESET_ALL}{Fore.WHITE}{Back.BLUE}                                            {Style.RESET_ALL}{Fore.CYAN}║{Style.RESET_ALL}
-    {Fore.CYAN}║{Style.RESET_ALL}{Fore.WHITE}{Back.BLUE}        DDOS TOOL        {Style.RESET_ALL}{Fore.CYAN}║{Style.RESET_ALL}
+    {Fore.CYAN}║{Style.RESET_ALL}{Fore.WHITE}{Back.BLUE}                  DDOS TOOL                 {Style.RESET_ALL}{Fore.CYAN}║{Style.RESET_ALL}
     {Fore.CYAN}║{Style.RESET_ALL}{Fore.WHITE}{Back.BLUE}                                            {Style.RESET_ALL}{Fore.CYAN}║{Style.RESET_ALL}
-    {Fore.CYAN}║{Style.RESET_ALL}{Fore.WHITE}{Back.BLUE}           ALLAHU AKBAR               {Style.RESET_ALL}{Fore.CYAN}║{Style.RESET_ALL}
+    {Fore.CYAN}║{Style.RESET_ALL}{Fore.WHITE}{Back.BLUE}                 ALLAHU AKBAR               {Style.RESET_ALL}{Fore.CYAN}║{Style.RESET_ALL}
     {Fore.CYAN}║{Style.RESET_ALL}{Fore.WHITE}{Back.BLUE}                                            {Style.RESET_ALL}{Fore.CYAN}║{Style.RESET_ALL}
     {Fore.CYAN}╚════════════════════════════════════════════╝{Style.RESET_ALL}
     '''
